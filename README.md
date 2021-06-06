@@ -1,2 +1,2 @@
-# Dragon'sAdventureCode
+# Dragon's Adventure Code
 Here all all of the C# files on Dragon's Adventure that I worked on! Most of my work is in the kingdom scenes consisting of the Castle Area and the Ballroom Area and Rock Paper Sciessors as well as the Area Selection Scene. I worked on the set up in Unity for the menu, area selection scene, all kingdom scenes, arcade, and end scene. Find the game website here: https://lavenderfog.itch.io/dragons-adventure
